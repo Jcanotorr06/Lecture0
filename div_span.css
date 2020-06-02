@@ -1,0 +1,14 @@
+#top{
+  font-size: 36px;
+}
+#middle{
+  font-size: 24px;
+}
+#bottom{
+  font-size: 12px;
+}
+.name{
+  color: orange;
+  font-weight: bold;
+  font-style: italic;
+}
